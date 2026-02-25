@@ -20,6 +20,6 @@ Engagement Setup → Project Initiation → Requirements Elicitation → Analysi
 
 ---
 
-⭐ If you found this useful, give it a like on the toolkit page!
+⭐ If you found this useful, give it a STAR.
 
-© 2025 Sudeep Shetty. All rights reserved.
+© 2026 Sudeep Shetty. All rights reserved.
